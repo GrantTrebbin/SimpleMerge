@@ -1,0 +1,3 @@
+FileName	<Symbol>	<ElementName>	<Protons>
+File1.txt	He	Helium	2
+File2.txt	N	Nitrogen	7

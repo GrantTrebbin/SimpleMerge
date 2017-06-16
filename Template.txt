@@ -1,0 +1,2 @@
+<Symbol> is the symbol for <ElementName>.
+<ElementName> has <Protons> protons.
